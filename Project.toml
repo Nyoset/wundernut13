@@ -1,0 +1,9 @@
+name = "Wundernut13"
+uuid = "51b85c70-5b90-4988-837e-8acc81e7f16b"
+authors = ["Marc Basquens <marc5@kth.se>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
